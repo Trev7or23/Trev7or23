@@ -1,4 +1,5 @@
-## Hi there 👋
+## 💫 About Me:
+## Hi, I'm Trev7or23 👋 <br><br>
 
 <!--
 **Trev7or23/Trev7or23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Tech Stacks
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,py,java,spring,go,apple,linux,sublime,vim)](https://skillicons.dev)
+
 # 📊 Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trev7or23&show_icons=true&theme=merko)
