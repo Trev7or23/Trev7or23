@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Tech Stacks
-[![My Skills](https://skillicons.dev/icons?i=dart,java,py,go,flutter,spring,apple,linux,vim,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,linux,vim,react,ts,js,astro,nextjs,git,docker)](https://skillicons.dev)
 
 # 📊 Github Stats
 
